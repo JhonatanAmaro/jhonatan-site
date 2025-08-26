@@ -1,4 +1,11 @@
 body {
     color:crimson;
     background: purple;
+    margin: 0px;
+}
+header {
+    border-bottom: solid 3px silver;
+    padding: 20px;
+    font-size: 40px;
+    color: silver;
 }
